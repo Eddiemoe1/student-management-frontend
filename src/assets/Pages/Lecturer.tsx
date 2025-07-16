@@ -1,5 +1,4 @@
 const Lecturer = () => {
-  // Sample lecturer data
   const lecturers = [
     { id: 1, name: 'Prof. John Doe', email: 'john.doe@example.com', department: 'Computer Science' },
     { id: 2, name: 'Dr. Jane Smith', email: 'jane.smith@example.com', department: 'Mathematics' },
