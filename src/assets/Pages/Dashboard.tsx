@@ -31,7 +31,6 @@ const Dashboard = () => {
               <td className="border px-4 py-2">Total Staff</td>
               <td className="border px-4 py-2">40</td>
             </tr>
-
         </tbody>
       </table>
     </div>
